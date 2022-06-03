@@ -20,7 +20,7 @@ int ones;
 	  {
 	      putchar(',');
 	      putchar(' ');
-	  }
+	      }
 	}
 }
 putchar('\n');
